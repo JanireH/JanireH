@@ -1,5 +1,4 @@
-<h1 align="center">Hola mi nombre es Janire</h1>
-<h3 align="center">llevo 3 años trabajando como desarrolladora FullStack</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
